@@ -24,6 +24,14 @@ To capture a new image, press C to pause the captured video stream, then press C
 
 ----------------------------------------------
 
+STEPS TO RUN:
+
+execute main.py using the terminal of your choice.
+
+"python3 main.py"
+
+----------------------------------------------
+
 Note for the Developers : 
 
 image_processor.py contains all the preprocessing operations.
@@ -32,7 +40,7 @@ model_trainer.py contains the neural network training functions.
 
 digit_recog.py contains the backend function to calculate the answer from the estimated input image.
 
-main.py contains all the gui operations and the front end of the software.
+main.py contains all the gui operations and the front end of the software. This is the entry point of the software.
 
 digit_recogniser.kv is the kivy builder file for the front-end.
 
