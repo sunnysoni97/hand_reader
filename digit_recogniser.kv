@@ -1,0 +1,53 @@
+Root:
+    im : im
+    im2 : im2
+    lbl : lbl
+    BoxLayout:
+        orientation: 'vertical'
+        BoxLayout:
+            size_hint_y: None
+            height: 60
+            Button:
+                text: 'Browse File'
+                font_size: '30sp'
+                on_release: root.show_load()
+            Button:
+                text: 'Capture Image'
+                font_size: '30sp'
+                on_release: root.show_camera()
+        BoxLayout:
+            orientation: 'vertical'
+            BoxLayout:
+                Image:
+                    opacity : 0
+                    id : im
+                    allow_stretch : True
+                    keep_ratio : True
+                Image:
+                    opacity : 0
+                    id : im2
+                    allow_stretch : True
+                    keep_ratio : True
+            Label:
+                id : lbl
+                font_size : '45sp'
+
+<LoadDialog>:
+    BoxLayout:
+        size: root.size
+        pos: root.pos
+        orientation: "vertical"
+        FileChooserIconView:
+            id: filechooser
+            path: './'
+
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Button:
+                text: "Cancel"
+                on_release: root.cancel()
+
+            Button:
+                text: "Load"
+                on_release: root.load(filechooser.path, filechooser.selection)
