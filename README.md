@@ -1,4 +1,8 @@
+----------------------------------------------
+
 This is the reader's manual for using and editing this software project as you may like.
+
+----------------------------------------------
 
 Prerequisites before using this software :
 
@@ -9,6 +13,8 @@ Prerequisites before using this software :
 	(iii) kivy (and its supporting gstreamer libraries)
     (iv) The supporting libraries like numpy,pil and all others (which are automatically installed while installing the above mentioned libraries)
 3. You need a working camera for the image capture option to work.
+
+----------------------------------------------
 
 Short Introduction :
 
@@ -53,3 +59,5 @@ Feel free to try out my project, make your own implementations, suggest changes 
 ----------------------------------------------
 
 P.S. : Hail the internet for all the awesome resources and information present on anything you want to learn. Credits to everybody who made it possible for me to complete this project of mine. :)
+
+----------------------------------------------
