@@ -46,16 +46,19 @@ To capture a new image, press C to pause the captured video stream, then press C
 
 ## Screenshots
 
-<img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap1.png?raw=true" alt="hand reader screenshot 1" width=300px />
-&emsp;
+<p float="left">
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap1.png?raw=true" alt="hand reader screenshot 1" width=300px />
+    &emsp;
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap2.png?raw=true" alt="hand reader screenshot 2" width=300px />
 
-<img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap2.png?raw=true" alt="hand reader screenshot 2" width=300px />
+</p>
 
-<br/>
+<p float="left">
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap3.png?raw=true" alt="hand reader screenshot 3" width=300px />
+    &emsp;
+   <img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap4.png?raw=true" alt="hand reader screenshot 4" width=300px />
 
-<img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap3.png?raw=true" alt="hand reader screenshot 3" width=300px />
-&emsp;
-<img src="https://github.com/sunnysoni97/sunnysoni97.github.io/blob/master/static/skills_applied/portfolio_screencaps/hand_reader_screencaps/cap4.png?raw=true" alt="hand reader screenshot 4" width=300px />
+</p>
 
 ---
 
